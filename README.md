@@ -1,7 +1,7 @@
 3130_SofatwareEngineering_Project
 ===============
 
-CSCI 3130 Project: Creating a Minecraft Mod 
+CSCI 3130 Project: Creating A Minecraft Mod 
 
 The project was our team work originally shared on Google Drive in 2014 Summer. 
 
