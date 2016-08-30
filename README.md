@@ -3,7 +3,7 @@
 
 CSCI 3130 Project: Creating a Minecraft Mod 
 
-The project was our team work oringinally shared on Google Drive in 2014 Summer. 
+The project was our team work originally shared on Google Drive in 2014 Summer. 
 
 This reporsitory is just a transplant.
 
