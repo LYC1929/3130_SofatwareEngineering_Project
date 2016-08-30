@@ -3,9 +3,9 @@
 
 CSCI 3130 Project: Creating a Minecraft Mod 
 
-This project was our team work oringinally shared on Google Drive in 2014 Summer. 
+The project was our team work oringinally shared on Google Drive in 2014 Summer. 
 
-The reporsitory is just a transplant.
+This reporsitory is just a transplant.
 
 ***
 
